@@ -47,7 +47,7 @@
 		"url": "https://github.com/vanekj/validate-json-action/issues"
 	},
 	"volta": {
-		"node": "16.13.2",
-		"npm": "8.4.1"
+		"node": "^21.6.1",
+		"npm": "^10.4.0"
 	}
 }
